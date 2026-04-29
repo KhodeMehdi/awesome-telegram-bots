@@ -27,6 +27,7 @@ Fork the repo and submit a Pull Request, or open a [new issue](https://github.co
 | [@youtubednbot](https://t.me/youtubednbot) | download any video, photo, and audio from Instagram/YouTube/Facebook/Pinterest/TikTok/Twitter/Likee | 🖼️📽️ |
 | [@PinterestDownloaderDevsBot](https://t.me/PinterestDownloaderDevsBot) | a bot for downloading photos/videos and searching for music | 🎶🖼️📽️ |
 | [@FullSavebot](https://t.me/FullSavebot) | download videos from Instagram, TikTok, Pinterest, YouTube without watermarks | 🖼️📽️ |
+| [@cybercollectorbot](https://t.me/cybercollectorbot) | download videos from TikTok (no watermark), Instagram Reels/Stories, YouTube Shorts, X/Twitter and Facebook. No signup required | 📽️ |
 
 
 ## AI
