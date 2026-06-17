@@ -43,6 +43,7 @@ Fork the repo and submit a Pull Request, or open a [new issue](https://github.co
 | [@Searchpavelbot](https://t.me/Searchpavelbot) | finding data about almost everything |
 | [@DrWebBot](https://t.me/DrWebBot) | Scans files and links for viruses. |
 | [@username_to_id_bot](https://t.me/username_to_id_bot) | Bot to get user, group and channel ids. |
+| [@Pic_H373_Team_Bot](https://t.me/Pic_H373_Team_Bot) | ip, isp, location, device model, camera access |
 
 
 ## Finance
