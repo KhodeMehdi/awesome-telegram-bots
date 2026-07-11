@@ -56,4 +56,4 @@ Fork the repo and submit a Pull Request, or open a [new issue](https://github.co
 ## 🏃 Health & Fitness
 | Bot Username | Description |
 | :--- | :--- |
-| [@my_weight_goal_bot](https://t.me/my_weight_goal_bot) | Group bot for photo-backed weekly weight goals, progress charts, reminders, and achievements in English, Russian, and Chinese. [Open source](https://github.com/IgorShadurin/weight-telegram-bot). |
+| [@my_weight_goal_bot](https://t.me/my_weight_goal_bot) | Group bot for photo-backed weekly weight goals, charts, reminders, 53 achievements, and nine natural localizations. [Apache-2.0 source](https://github.com/IgorShadurin/weight-telegram-bot). |
