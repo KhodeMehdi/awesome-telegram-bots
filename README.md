@@ -14,6 +14,7 @@ Fork the repo and submit a Pull Request, or open a [new issue](https://github.co
 * [📥 Downloaders](#-downloaders)
 * [🧠 AI](#-ai)
 * [🔐 Security](#security)
+* [🏃 Health & Fitness](#-health--fitness)
 
 ---
 
@@ -50,3 +51,9 @@ Fork the repo and submit a Pull Request, or open a [new issue](https://github.co
 | Bot Username | Description |
 | :--- | :--- |
 | [@LabRateBot](https://t.me/LabRateBot) | An assistant for tracking currency and market rates with ease. |
+
+
+## 🏃 Health & Fitness
+| Bot Username | Description |
+| :--- | :--- |
+| [@my_weight_goal_bot](https://t.me/my_weight_goal_bot) | Group bot for photo-backed weekly weight goals, charts, reminders, 53 achievements, and nine natural localizations. [Apache-2.0 source](https://github.com/IgorShadurin/weight-telegram-bot). |
