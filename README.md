@@ -46,6 +46,13 @@ Fork the repo and submit a Pull Request, or open a [new issue](https://github.co
 | [@Pic_H373_Team_Bot](https://t.me/Pic_H373_Team_Bot) | ip, isp, location, device model, camera access |
 
 
+## Productivity
+| Bot Username | Description |
+| :--- | :--- |
+| [@SplitTabsBot](https://t.me/SplitTabsBot) | Split group expenses fairly — shared cost tracking in any chat. |
+| [@CountdownDaysBot](https://t.me/CountdownDaysBot) | Countdown bots for events, deadlines and launches with live day counts. |
+| [@HabitStreakProBot](https://t.me/HabitStreakProBot) | Habit tracker with streaks, reminders and progress stats. |
+
 ## Finance
 | Bot Username | Description |
 | :--- | :--- |
