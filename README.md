@@ -14,6 +14,7 @@ Fork the repo and submit a Pull Request, or open a [new issue](https://github.co
 * [📥 Downloaders](#-downloaders)
 * [🧠 AI](#-ai)
 * [🔐 Security](#security)
+* [🛠️ Group tools](#-group-tools)
 
 ---
 
@@ -50,3 +51,9 @@ Fork the repo and submit a Pull Request, or open a [new issue](https://github.co
 | Bot Username | Description |
 | :--- | :--- |
 | [@LabRateBot](https://t.me/LabRateBot) | An assistant for tracking currency and market rates with ease. |
+
+
+## Group tools
+| Bot Username | Description |
+| :--- | :--- |
+| [@RSVPBot](https://t.me/RSVPBot) | collect event RSVPs in a group chat — members tap Going / Can't come, the organizer gets a live headcount |
