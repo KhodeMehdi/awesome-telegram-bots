@@ -35,6 +35,7 @@ Fork the repo and submit a Pull Request, or open a [new issue](https://github.co
 | :--- | :--- |
 | [@NanoBananaNeurobot](https://t.me/NanoBananaNeurobot) | Nano Banana Image generation  |
 | [@jggl_ai_bot](https://t.me/jggl_ai_bot) | the AI that turns your ideas into full music tracks in just a few minutes. |
+| [@TSocialAppBot](https://t.me/TSocialAppBot) | Flirt Social (formerly T-Social), TikTok-style social Mini App: short clips, trending creators, AI chat characters. 18+. |
 
 
 ## Security
